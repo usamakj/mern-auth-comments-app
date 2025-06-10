@@ -52,8 +52,8 @@
 **👨‍💻 Muhammad Usama**  
 BS Computer Science (6th Semester)  
 📍 Federal Urdu University, Islamabad  
-🌐 [LinkedIn (optional)](https://www.linkedin.com/in/muhammad-usama-balti-3aa0a0257/)  
-📫 [Email (optional)](usamakj47@gmail.com)
+🌐 [LinkedIn ](https://www.linkedin.com/in/muhammad-usama-balti-3aa0a0257/)  
+📫 [Email ](usamakj47@gmail.com)
 
 ---
 
