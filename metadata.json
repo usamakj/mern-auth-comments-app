@@ -1,0 +1,5 @@
+{
+  "name": "User Authentication & Comments App",
+  "description": "A React application demonstrating user registration, login, and comment posting functionality using localStorage for data persistence.",
+  "requestFramePermissions": []
+}
